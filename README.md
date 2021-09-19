@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Why the Windows 11 limitations are arbitrary - and how to bypass them](https://blog.samplasion.js.org/windows-11-bogus-limitation-bypass/)
-- [Windows 11 has just been announced](https://blog.samplasion.js.org/windows-11-has-just-been-announced/)
-- [Where to download the leaked Windows 11 build](https://blog.samplasion.js.org/download-windows-11-leaked/)
-- [How to enable LayeredFS on a Luma-ready 3DS](https://blog.samplasion.js.org/how-to-enable-layeredfs-on-a-luma-ready-3ds/)
+- [Why the Windows 11 limitations are arbitrary - and how to bypass them](http://blog.samplasion.js.org/windows-11-bogus-limitation-bypass/)
+- [Windows 11 has just been announced](http://blog.samplasion.js.org/windows-11-has-just-been-announced/)
+- [Where to download the leaked Windows 11 build](http://blog.samplasion.js.org/download-windows-11-leaked/)
+- [How to enable LayeredFS on a Luma-ready 3DS](http://blog.samplasion.js.org/how-to-enable-layeredfs-on-a-luma-ready-3ds/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
