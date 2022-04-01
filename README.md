@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/samplasion" target="blank"><img src="https://img.shields.io/twitter/follow/samplasion?logo=twitter&style=for-the-badge" alt="samplasion" /></a> </p>
 
-- 🌱 I’m currently learning **C++ and game dev with raylib**
+- 👨‍💻 All of my projects are available at [my GitHub page](https://github.com/Samplasion)
 
-- 👨‍💻 All of my projects are available at [https://samplasion.js.org](https://samplasion.js.org)
+- 📝 I (almost) regularly write articles on [https://blog.samplasion.js.org](https://blog.samplasion.js.org)
 
-- 📝 I regularly write articles on [https://blog.samplasion.js.org](https://blog.samplasion.js.org)
-
-- 📫 How to reach me **samplasion@gmail.com**
+- 📫 How to reach me **samplasion [at] gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
